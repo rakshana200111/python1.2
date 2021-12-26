@@ -1,0 +1,15 @@
+def details(name,age,height):
+    print("Name is "+name)
+    print("Age is ",age)
+    print("height is ",height)
+    print("-----------------------")
+    
+def stu_marks(maths,evs,eng,social):
+    print("maths mark is ",maths)
+    print("evs mark is ",evs)
+    print("english mark is ",eng)
+    print("social mark is",social)
+    
+
+details("ram",18,150)
+stu_marks(67,87,77,85)
